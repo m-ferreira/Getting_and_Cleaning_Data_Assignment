@@ -21,7 +21,7 @@ each variable for each activity and each subject.
 
 Note that the data required to follow this exercise is available here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-#run_analysys.R
+#run_analysis.R
 -Contains the code to reach to the final data set.
 
 #CODE_BOOK.md
