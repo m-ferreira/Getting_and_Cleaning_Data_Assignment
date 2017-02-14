@@ -4,7 +4,7 @@
 
 This is my project for the "Getting and Cleaning Data" online course from Coursera! 
 
-The R file (run_analysis.R) countains the steps I made according to the instructions below:
+The R file (run_analysis.R) contains the steps I made according to the instructions below:
 
 You should create one R script called run_analysis.R that does the following.
 
@@ -20,3 +20,11 @@ You should create one R script called run_analysis.R that does the following.
 each variable for each activity and each subject.
 
 Note that the data required to follow this exercise is available here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+#run_analysys.R
+-Contains the code to reach to the final data set.
+
+#CODE_BOOK.md
+-Contains information about variables and processess according to the code in R file.
+
+
