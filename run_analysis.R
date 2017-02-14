@@ -64,4 +64,4 @@ require(plyr)
 tidy <- ddply(extract_with_labels, c("subject","activity"), numcolwise(mean))
 
 if(!file.exists("./GCD_Assignment")){dir.create("./GCD_Assignment")}
-write.table(tidy, "./GCD_Assignment/tidy_dataset_GCD.txt")
+write.table(tidy, "./GCD_Assignment/tidy_dataset_GCD.txt", row.name=FALSE)
